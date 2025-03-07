@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(to right, #9a137b34, #e029af33), url(bgrMail.jpg);
+  background: linear-gradient(to right, #9a137b34, #e029af33), url(kkk.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -59,7 +59,7 @@ body {
 }
 .heart {
   position: absolute;
-  background: url("heart.png");
+  background: url("kkk.jpg");
   background-size: cover;
   width: 120px;
   height: 120px;
@@ -92,7 +92,7 @@ body {
 .inner.one::before {
   position: absolute;
   content: "";
-  background: url("heart.png");
+  background: url("2.jpg");
   background-size: cover;
   width: 30px;
   height: 30px;
@@ -111,7 +111,7 @@ body {
 .inner.two::before {
   position: absolute;
   content: "";
-  background: url("heart.png");
+  background: url("2.jpg");
   background-size: cover;
   width: 30px;
   height: 30px;
@@ -129,7 +129,7 @@ body {
 }
 .inner.three::before {
   position: absolute;
-  background: url("heart.png");
+  background: url("2.jpg");
   background-size: cover;
   width: 30px;
   height: 30px;
